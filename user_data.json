@@ -1,0 +1,75 @@
+{
+    "Full Name": "Poorna Ayyappan",
+    "Email": "apurna1998@gmail.com",
+    "Phone Number": "+91 9496971869",
+    "Location": {
+        "City": "Trivandrum",
+        "State": "Kerala",
+        "Country": "India"
+    },
+    "Willing to Relocate": "Yes",
+    "Total Experience": "2+",
+    "Current Job Title": "Software Developer I - Machine Learning",
+    "Company History": [
+        {
+            "Employer": "UST",
+            "Duration": "Nov/2021 \u2013 Till Date"
+        }
+    ],
+    "Job Responsibilities": [
+        "Developed and implemented machine learning model to predict employee attrition.",
+        "Led project from conception to implementation including data analysis, algorithm selection, and model deployment.",
+        "Enhanced decision-making by providing data-driven insights.",
+        "Led development of RR Skill Mapping project.",
+        "Pioneered Learning Path for Freshers program.",
+        "Developed and implemented CV standardization system."
+    ],
+    "Industry Experience": "Software Development, Machine Learning, Data Science",
+    "Work Preferences": "Not specified",
+    "Highest Qualification": "MSc in Computer Science",
+    "University/Institute": "University of Kerala",
+    "Certifications": [
+        "Internship in Python - Scopos Technology Pvt. Ltd, Kollam",
+        "Understanding Machine Learning with Python 3",
+        "Python - Data Analysis",
+        "Python for Data Science Essential Training Part 1-2",
+        "Advanced Python",
+        "Machine Learning with Python - Practical Application",
+        "Web Application Development using Python"
+    ],
+    "Technical Skills": [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "Data Analysis",
+        "Mongo DB",
+        "DBMS",
+        "Scikit-learn",
+        "NLP"
+    ],
+    "Soft Skills": [
+        "Strong work ethic",
+        "Quality assurance",
+        "Self-development"
+    ],
+    "Tools & Technologies": [
+        "PyPDF2",
+        "docx2txt",
+        "NLTK",
+        "spaCy"
+    ],
+    "LinkedIn Profile": "www.linkeldin.com",
+    "GitHub, Kaggle, Portfolio": "no profiles",
+    "Current Salary": "12lpa",
+    "Published Papers, Blogs, Patents": "no papres",
+    "Expected Salary": "15lpa",
+    "Personality Traits": "communication skill and networking skill",
+    "Skills Acquired During Education": "communication",
+    "Skill Proficiency": "coding in data science",
+    "Workplace Preferences": "trivandrum",
+    "Preferred Work Type": "regular",
+    "Team vs. Individual Work Style": "team",
+    "Employment Type": "Fulltime",
+    "Notice Period": "20days",
+    "Work Authorization": "yes, authorized"
+}
