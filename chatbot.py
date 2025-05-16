@@ -130,23 +130,3 @@ def clean_response_with_openai(response, field):
 
     return response.choices[0].message.content.strip()
 
-
-# def chat_completion(missing_details):
-#     user_data = {}
-
-#     print("\n🤖 Chatbot: Hi! Let's complete your profile. I will only ask for missing details.")
-    
-#     for detail in missing_details:
-#         prompt = f"Ask the user in a conversational way for their {detail}. Keep it natural and avoid repeating phrases."
-
-#         response = client.chat.completions.create(
-#             model="BT-OpenAIGPT4",
-#             messages=[{"role": "system", "content": "You are a friendly chatbot collecting missing resume details."},
-#                       {"role": "user", "content": prompt}]
-#         )
-
-#         chatbot_questions = response.choices[0].message.content.strip()
-#         user_input = input(f"🤖 Chatbot: {chatbot_questions}\n👤 You: ")
-#         user_data[detail] = user_input
-
-#     return user_data
